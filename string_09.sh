@@ -1,3 +1,4 @@
+#!/bin/bash
 #defining strings and String operations 
 
 myVar="Hello World"
