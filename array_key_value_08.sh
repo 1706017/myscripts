@@ -1,3 +1,4 @@
+#!/bin/bash
 #defining the key value pair array
 
 declare -A myArray
