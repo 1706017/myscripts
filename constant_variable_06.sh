@@ -1,3 +1,4 @@
+#!/bin/bash
 #This script will elaborate the use of constant variable whose value remains unchanged
 
 Name="Amrit"
