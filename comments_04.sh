@@ -1,3 +1,4 @@
+#!/bin/bash
 #This is an example for single line comment is shell script
 echo "Single line comment"
 
