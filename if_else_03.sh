@@ -1,3 +1,5 @@
+#!/bin/bash
+
 echo "Please Enter your Age"
 read age
 
