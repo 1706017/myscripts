@@ -1,3 +1,4 @@
+#!/bin/bash
 #Taking user input for two numbers
 echo "Please enter Number 1"
 read num1
