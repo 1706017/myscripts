@@ -1,3 +1,4 @@
+#!/bin/bash
 #Define an array
 
 myArray=( 'Amrit' 25 'NO' 40000 )
